@@ -4,4 +4,15 @@
         flex-direction: column;
         padding-bottom: 10px;
     }
+
+    .filme-principal .container {
+        width: 90%;
+    }
+    .botao {
+        font-size: 12px;
+        padding: 10px 20px;
+    }
+    .botoes {
+        display: flex;
+    }
 }
